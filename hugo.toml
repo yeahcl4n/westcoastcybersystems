@@ -1,0 +1,24 @@
+baseURL = "https://www.westcoastcybersystems.com.au/"
+languageCode = "en-au"
+title = "West Coast Cyber Systems"
+theme = "PaperMod"
+
+[params]
+  description = "Sovereign West Australian Cyber Security & Network Infrastructure."
+  author = "System Administrator"
+  defaultTheme = "dark" # Cyber mode by default
+
+  [params.assets]
+    favicon = "<link / to / favicon>" # We can add this later
+
+[menu]
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
