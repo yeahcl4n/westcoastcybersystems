@@ -1,8 +1,3 @@
-+++
-date = '2026-01-06T14:14:59+08:00'
-draft = true
-title = 'Perth Small Business Ransomware'
-+++
 ---
 title: "Why Perth Small Businesses are the New Target for Ransomware"
 date: 2026-01-05
